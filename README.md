@@ -16,6 +16,8 @@ Node server, so that your realtime audio is never interrupted.
 You can read more about how the model was trained on the [Magenta blog](https://magenta.tensorflow.org/groovae)!
 
 ## How to run locally
+Make sure you have node 8. If you use [nvm](https://github.com/nvm-sh/nvm), run `nvm use 8`
+
 After cloning this repo, run:
 
 ```
